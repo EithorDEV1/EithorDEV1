@@ -1,5 +1,3 @@
-# **Configurações do Visual Studio Code**
-
 {
   "window.zoomLevel": 0.7,
   "workbench.colorTheme": "Dracula Theme",
